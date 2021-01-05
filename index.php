@@ -1,2 +1,2 @@
 <?php
-echo 'git test 3ttt';
+echo 'git test';
